@@ -3,6 +3,7 @@ body {background-color: white }
 h1 { color: blue }
 .black-text {
 
+font-size: small;
   color: black;
 }
 
@@ -19,4 +20,6 @@ h1 { color: blue }
 }
 
 h2 { color: blue }
-.black-text {
+
+
+h3 { color: black}

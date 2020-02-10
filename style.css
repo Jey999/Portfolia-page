@@ -13,5 +13,10 @@ h1 { color: blue }
     width: 50%;
 }
 
+.container-right{
+  text-align: center;
+  float: right;
+}
+
 h2 { color: blue }
 .black-text {

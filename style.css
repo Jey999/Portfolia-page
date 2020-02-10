@@ -5,3 +5,10 @@ h1 { color: blue }
 
   color: black;
 }
+
+.align-item{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
